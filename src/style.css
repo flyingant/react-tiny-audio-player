@@ -58,12 +58,12 @@
 }
 
 .audio_container .audio-player .progress {
-    height: 30px;
+    height: 32px;
     position: absolute;
     top: 0;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
-    background-color: #FFEDEB;
+    background-color: #CCCCCC;
 }
 
 .audio_container .audio-player.is-playing .progress{
