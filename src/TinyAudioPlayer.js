@@ -109,6 +109,7 @@ class TinyAudioPlayer extends React.Component {
                     >
                     <div className="content">
                         <span className={iconClass}></span>
+                        <div className="name">{this.props.name}</div>
                         <span className="time">
                             {formattedPlayedTime + '/' + formattedDuration}
                         </span>
@@ -125,6 +126,7 @@ class TinyAudioPlayer extends React.Component {
 }
 
 TinyAudioPlayer.propTypes = {
+    name: PropTypes.string,
     source: PropTypes.string.isRequired
 }
 
