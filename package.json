@@ -1,0 +1,44 @@
+{
+  "name": "react-tiny-audio-player",
+  "version": "1.0.0",
+  "description": "a tiny audio player with process bar and process tips.",
+  "main": "src/TinyAudioPlayer.js",
+  "author": "Liu Cheng <liucheng@flyingant.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyingant/react-tiny-audio-player.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.6.2",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1",
+    "less": "^2.6.1",
+    "less-loader": "2.2.1",
+    "css-loader": "0.23.0",
+    "style-loader": "0.13.0"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "audio",
+    "react audio",
+    "react audio player"
+  ]
+}
