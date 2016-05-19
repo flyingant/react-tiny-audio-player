@@ -4,6 +4,8 @@ react-tiny-audio-player is an audio player component with process bar and proces
 </br>
 based on the HTML 5 Audio Tag
 
+![Preview](https://cloud.githubusercontent.com/assets/1773209/15380759/c60d33a2-1dab-11e6-9233-563fcdf34a20.png)
+
 ## Installation
 
 `npm install react-tiny-audio-player --save`
