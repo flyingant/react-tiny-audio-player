@@ -23,6 +23,10 @@ ReactDOM.render(<TinyAudioPlayer
 
 ```
 
+## Tips
+
+You may need to customize the style for audio player or copy the style.css to your project,
+
 ## Development
 
     npm install
