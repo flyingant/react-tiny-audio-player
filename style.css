@@ -11,7 +11,7 @@
     position: relative;
     display: inline-block;
     max-width: 360px;
-    min-width: 240px;
+    min-width: 280px;
     height: 32px;
     line-height: 30px;
     cursor: pointer;
@@ -58,8 +58,7 @@
 }
 
 .audio_container .audio-player .name {
-    width: 120px;
-    font-size: 14px;
+    font-size: 12px;
     z-index: 1;
 }
 
